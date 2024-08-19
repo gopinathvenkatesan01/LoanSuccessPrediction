@@ -1,0 +1,7 @@
+numpy==1.23.5
+streamlit==1.31.1
+pickleshare==0.7.5
+scikit-learn==1.5.1
+pandas==2.2.1
+matplotlib==3.8.4
+seaborn==0.13.2
