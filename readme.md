@@ -87,8 +87,8 @@ To use this project, follow these steps:
     ```
   
 
-**Deployed in Render**
-  - **SingaporeFlatPricePrediction:** [Loan Attraction Prediction](https://singaporeflatepriceprediction.onrender.com/)
+**Deployed in Streamlit**
+  - **LoanAttractionPrediction:** [Loan Attraction Prediction](https://loanattractionpredictor.streamlit.app/)
 
 
 **Results**
