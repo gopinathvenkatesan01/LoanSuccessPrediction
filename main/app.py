@@ -7,11 +7,11 @@ import pandas as pd
 def main():
     page_icon_url = "https://github.com/user-attachments/assets/69df246e-ddca-4992-826a-e44889ddd698"
     st.set_page_config(
-        page_title="Customer Loan Predictor",
+        page_title="Loan Attraction Predictor",
         page_icon=page_icon_url,
         layout="wide",
     )
-    st.subheader("⏩ Customer **Loan Predictor** | _By Gopi_ ")
+    st.subheader("⏩ Loan **Attraction Predictor** | _By Gopi_ ")
 
     age = list(range(18, 96))
     day = list(range(1,32))
